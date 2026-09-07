@@ -12,6 +12,16 @@ Meu interesse pela área de Tecnologia da Informação começou ainda na infânc
 
 Atualmente tenho maior interesse pela área de **Dados**, mas estou aberto a explorar outras frentes como Desenvolvimento e Inteligência Artificial ao longo do curso.
 
+## Disciplinas Atuais (1º Módulo)
+
+- Bootcamp I
+- Bootcamp II
+- Projeto Integrador II
+- Lógica de Programação
+- Ética e Cidadania
+- Redes de Computadores
+- Teoria de Grafos
+
 ## Contato
 
 - **E-mail:** mateus.salvato@sempreceub.com
